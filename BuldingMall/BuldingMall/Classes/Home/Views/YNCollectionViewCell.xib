@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" restorationIdentifier="cell" id="gTV-IL-0wX" customClass="YNCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="185" height="270"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="185" height="270"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="HQm-fg-kYf">
+                        <frame key="frameInset" width="185" height="185"/>
+                        <color key="backgroundColor" red="0.51042090993909084" green="0.57159580321661119" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="我饿哦微微Wii而打飞机的咖啡机的开发发的艰苦奋斗九分裤大家疯狂的肌肤抵抗" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H4T-0U-QFh">
+                        <constraints>
+                            <constraint firstAttribute="height" constant="32" id="v31-We-OWa"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="￥86000.00" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QWD-8P-9SS">
+                        <frame key="frameInset" minX="2" minY="240" width="95" height="21"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.86274509803921573" green="0.0078431372549019607" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2Gz-s8-vab" userLabel="hidview">
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="320人已购买" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dkj-Y3-xh7">
+                                <frame key="frameInset" minY="5" width="85" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="84" id="UDI-OD-IS9"/>
+                            <constraint firstAttribute="height" constant="33" id="cxI-28-eVu"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="H4T-0U-QFh" secondAttribute="trailing" constant="8" id="H5D-gv-tva"/>
+                <constraint firstAttribute="trailing" secondItem="2Gz-s8-vab" secondAttribute="trailing" id="NtB-Vq-PCo"/>
+                <constraint firstItem="2Gz-s8-vab" firstAttribute="top" secondItem="H4T-0U-QFh" secondAttribute="bottom" constant="8" id="OGW-7g-9kc"/>
+                <constraint firstItem="H4T-0U-QFh" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="cOm-ff-b1U"/>
+                <constraint firstAttribute="bottom" secondItem="2Gz-s8-vab" secondAttribute="bottom" constant="2" id="oJ3-A7-JKS"/>
+                <constraint firstItem="H4T-0U-QFh" firstAttribute="top" secondItem="HQm-fg-kYf" secondAttribute="bottom" constant="10" id="uww-wj-pS2"/>
+            </constraints>
+            <size key="customSize" width="208" height="172"/>
+            <connections>
+                <outlet property="hidView" destination="2Gz-s8-vab" id="sFf-pa-4Cr"/>
+                <outlet property="imageView" destination="HQm-fg-kYf" id="cKh-xl-yh1"/>
+                <outlet property="moneyLab" destination="QWD-8P-9SS" id="YV2-W7-6gd"/>
+                <outlet property="nameLab" destination="H4T-0U-QFh" id="lzF-gc-jrM"/>
+                <outlet property="pilab" destination="dkj-Y3-xh7" id="dQa-QI-aM7"/>
+            </connections>
+            <point key="canvasLocation" x="-1405.5" y="-18"/>
+        </collectionViewCell>
+    </objects>
+</document>

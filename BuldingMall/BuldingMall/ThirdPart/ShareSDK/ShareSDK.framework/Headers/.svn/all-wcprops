@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers
+END
+SSDKGooglePlusControllerStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKGooglePlusControllerStyle.h
+END
+ISSDKAuthView.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/ISSDKAuthView.h
+END
+SSDKContentEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKContentEntity.h
+END
+SSDKData.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKData.h
+END
+SSDKCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKCredential.h
+END
+SSDKAuthViewStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKAuthViewStyle.h
+END
+SSDKUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKUser.h
+END
+NSMutableDictionary+SSDKShare.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/NSMutableDictionary+SSDKShare.h
+END
+NSMutableDictionary+SSDKInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/NSMutableDictionary+SSDKInit.h
+END
+ShareSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/ShareSDK.h
+END
+SSDKFriendsPaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKFriendsPaging.h
+END
+SSDKSMSViewControllerStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKSMSViewControllerStyle.h
+END
+SSDKImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKImage.h
+END
+SSDKPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKPlatform.h
+END
+ShareSDK+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/ShareSDK+Base.h
+END
+SSDKUserQueryConditional.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKUserQueryConditional.h
+END
+SSDKTypeDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKTypeDefine.h
+END
+SSDKMailViewControllerStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/ShareSDK.framework/Headers/SSDKMailViewControllerStyle.h
+END

@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d35a14ac-1a70-42e0-8c35-deb11fc27a85++4085",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d35a14ac-1a70-42e0-8c35-deb11fc27a85++4085" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d35a14ac-1a70-42e0-8c35-deb11fc27a85++4085" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5BA37BD4-E742-46C5-ACAC-5B457042042A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d35a14ac-1a70-42e0-8c35-deb11fc27a85++4085" : "%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BuldingMall",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BuldingMall\/BuldingMall.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.xiaomizhuang.com:8080",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d35a14ac-1a70-42e0-8c35-deb11fc27a85++4085"
+    }
+  ]
+}

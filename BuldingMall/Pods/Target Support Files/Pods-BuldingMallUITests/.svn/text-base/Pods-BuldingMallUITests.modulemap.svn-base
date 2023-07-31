@@ -1,0 +1,6 @@
+framework module Pods_BuldingMallUITests {
+  umbrella header "Pods-BuldingMallUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

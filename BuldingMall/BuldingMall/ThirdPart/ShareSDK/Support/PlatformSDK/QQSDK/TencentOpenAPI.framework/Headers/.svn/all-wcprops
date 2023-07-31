@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers
+END
+TencentApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentApiInterface.h
+END
+QQApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/QQApiInterface.h
+END
+TencentMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentMessageObject.h
+END
+sdkdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/sdkdef.h
+END
+TencentOAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentOAuth.h
+END
+QQApiInterfaceObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h
+END
+TencentOAuthObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/2453/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentOAuthObject.h
+END

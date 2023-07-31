@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util
+END
+base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/base64.m
+END
+MD5DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/MD5DataSigner.m
+END
+RSADataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/RSADataSigner.m
+END
+DataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/DataVerifier.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/config.h
+END
+NSDataEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/NSDataEx.h
+END
+DataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/DataVerifier.m
+END
+RSADataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/RSADataVerifier.h
+END
+NSDataEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/NSDataEx.m
+END
+RSADataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/RSADataVerifier.m
+END
+DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/DataSigner.h
+END
+openssl_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/openssl_wrapper.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/base64.h
+END
+DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/DataSigner.m
+END
+MD5DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/MD5DataSigner.h
+END
+RSADataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/RSADataSigner.h
+END
+openssl_wrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2424/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Util/openssl_wrapper.m
+END

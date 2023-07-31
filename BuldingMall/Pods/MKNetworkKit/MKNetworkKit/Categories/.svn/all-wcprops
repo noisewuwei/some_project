@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories
+END
+UIAlertView+MKNetworkKitAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/UIAlertView+MKNetworkKitAdditions.m
+END
+NSDate+RFC1123.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/NSDate+RFC1123.h
+END
+NSString+MKNetworkKitAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/NSString+MKNetworkKitAdditions.h
+END
+NSDate+RFC1123.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/NSDate+RFC1123.m
+END
+NSString+MKNetworkKitAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/NSString+MKNetworkKitAdditions.m
+END
+NSDictionary+RequestEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/NSDictionary+RequestEncoding.h
+END
+NSData+MKBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.h
+END
+UIAlertView+MKNetworkKitAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/UIAlertView+MKNetworkKitAdditions.h
+END
+NSDictionary+RequestEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/NSDictionary+RequestEncoding.m
+END
+NSData+MKBase64.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/Pods/MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2670/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers
+END
+BaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/2601/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/BaseViewController.h
+END
+BaseTableController.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/BaseTableController.m
+END
+CustomerServiceVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/2152/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/CustomerServiceVC.h
+END
+PaySuccessController.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/2427/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/PaySuccessController.m
+END
+ProductDetailController.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/2670/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/ProductDetailController.m
+END
+ConfirmOrderController.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/2319/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/ConfirmOrderController.h
+END
+BaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/2670/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/BaseViewController.m
+END
+CustomerServiceVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/2550/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/CustomerServiceVC.m
+END
+PaymentController.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/2382/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/PaymentController.h
+END
+ConfirmOrderController.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/2537/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/ConfirmOrderController.m
+END
+BaseTableController.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/2092/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/BaseTableController.h
+END
+PaymentController.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/2637/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/PaymentController.m
+END
+PaySuccessController.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/2427/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/PaySuccessController.h
+END
+ProductDetailController.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/2513/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/Classes/Public/Controllers/ProductDetailController.h
+END

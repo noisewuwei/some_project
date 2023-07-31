@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2240/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Helper
+END
+Constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2240/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Helper/Constant.h
+END
+WXMediaMessage+messageConstruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/2240/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Helper/WXMediaMessage+messageConstruct.m
+END
+GetMessageFromWXResp+responseWithTextOrMediaMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/2240/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Helper/GetMessageFromWXResp+responseWithTextOrMediaMessage.h
+END
+SendMessageToWXReq+requestWithTextOrMediaMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/2240/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Helper/SendMessageToWXReq+requestWithTextOrMediaMessage.h
+END
+GetMessageFromWXResp+responseWithTextOrMediaMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/2240/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Helper/GetMessageFromWXResp+responseWithTextOrMediaMessage.m
+END
+SendMessageToWXReq+requestWithTextOrMediaMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/2240/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Helper/SendMessageToWXReq+requestWithTextOrMediaMessage.m
+END
+WXMediaMessage+messageConstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/2240/trunk/ios/%E5%BB%BA%E6%9D%90%E5%95%86%E5%9F%8E/BuldingMall/BuldingMall/ThirdPart/Helper/WXMediaMessage+messageConstruct.h
+END
