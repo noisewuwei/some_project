@@ -1,0 +1,19 @@
+{
+    "tabBarItems": [
+        {
+            "title": "公路",
+            "selectedImage": "back",
+            "normalImage": "back",
+            "controller": "HomePageViewController",
+            "index": "0"
+        },
+        {
+            "title": "背包",
+            "selectedImage": "back",
+            "normalImage": "back",
+            "controller": "PersonalPageViewController",
+            "index": "1"
+        }
+    ]
+}
+

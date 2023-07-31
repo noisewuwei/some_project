@@ -1,0 +1,69 @@
+platform :ios, '10.0'
+
+target 'zuler_ios' do
+  use_frameworks!
+  
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  
+  pod 'ReachabilitySwift' , '~> 5.0.0'
+  #  自动布局
+  pod 'SnapKit'
+  #  菊花z加载
+  pod 'MBProgressHUD'
+  
+  #    网络部分
+  pod 'Alamofire'
+  
+  
+  #数据解析
+  pod 'HandyJSON', '~> 5.0.2'
+  pod 'SwiftyJSON'
+  #https://github.com/SwiftyJSON/SwiftyJSON
+  
+  pod 'ObjectMapper', '~>4.2.0'
+  
+  #  图片加载框架
+  pod 'Kingfisher' , '~> 5.15.7'
+  
+  pod 'SDWebImage'
+  
+  #  下拉刷新
+  pod 'MJRefresh', '~> 3.5.0'
+  pod 'DZNEmptyDataSet'
+  
+  #  解决弹起键盘遮盖输入框的问题
+  pod 'IQKeyboardManagerSwift', '~> 6.1.1'
+  
+  #  轮播图
+#  pod 'SDCycleScrollView', '~> 1.82'
+
+  
+  #与h5交互
+  pod "dsBridge", '~>3.0.6'
+  
+  #获取设备信息
+  pod 'DeviceKit', '~> 4.0'
+  
+  #  加载动画
+  pod 'NVActivityIndicatorView'
+  
+  
+  #  使用SAMKeychain钥匙串存储设备唯一标示（本质是UUID）
+  pod 'SAMKeychain', '~> 1.5.3'
+  
+  
+  # 滑动标签栏组件
+  pod 'JXSegmentedView', '~> 1.2.7'
+  #  只用到label展开方法
+  pod 'YYKit', '~> 1.0.9'
+
+  pod 'Bugly'
+
+#  pod 'Starscream', '~> 3.0'
+
+  pod 'Socket.IO-Client-Swift', '~> 15.2.0'
+  
+  pod 'GoogleWebRTC', '~> 1.1'
+  
+end
