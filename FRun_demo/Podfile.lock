@@ -1,0 +1,12 @@
+PODS:
+  - Follower (0.1)
+
+DEPENDENCIES:
+  - Follower (~> 0.1)
+
+SPEC CHECKSUMS:
+  Follower: e31f2751a3384e8d97971318b4ba67cafb75ae70
+
+PODFILE CHECKSUM: c38199dad77b8fd4fdc84d033af442df932e9a23
+
+COCOAPODS: 1.0.0

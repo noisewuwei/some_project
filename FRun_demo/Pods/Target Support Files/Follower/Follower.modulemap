@@ -1,0 +1,6 @@
+framework module Follower {
+  umbrella header "Follower-umbrella.h"
+
+  export *
+  module * { export * }
+}

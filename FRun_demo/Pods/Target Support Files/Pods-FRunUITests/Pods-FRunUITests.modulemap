@@ -1,0 +1,6 @@
+framework module Pods_FRunUITests {
+  umbrella header "Pods-FRunUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
