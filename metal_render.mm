@@ -458,12 +458,12 @@ typedef NS_ENUM(NSUInteger, HobenRenderingResizingMode) {
 
 - (void)setupMatrix:(size_t)width_ height:(size_t)height_ { // 设置好转换的矩阵
     matrix_float3x3 kColorConversion601FullRangeMatrix = (matrix_float3x3){
-        (simd_float3){1.164383f,    1.164383f,    1.164383f},
+        (simd_float3){1.0f,         1.0f,         1.0f},//原本是1.164383f 但是 如果是fullrange的话 就是1.0
         (simd_float3){0.000000f,    -0.2133f,     2.1125f},
         (simd_float3){1.7969f,      -0.5342f,     0.00000f},
     };
     
-    vector_float3 kColorConversion601FullRangeOffset = (vector_float3){ -(16.0/255.0), -0.501960f, -0.501960f}; // 这个是偏移
+    vector_float3 kColorConversion601FullRangeOffset = (vector_float3){ 0.0f, -0.501960f, -0.501960f}; // 这个是偏移 原本第一个是 -(16.0/255.0) fullrange的话 就是 0
     
     LYConvertMatrix matrix;
     // 设置参数
@@ -720,30 +720,31 @@ typedef NS_ENUM(NSUInteger, HobenRenderingResizingMode) {
     "   dx = 1.0f / width *2.0;\n"
     "   dy = 1.0f / height *2.0;\n"
     "//  上  \n"
-    "   float2 tc = input.textureCoorRgb + float2(0,-dy);\n"
-     "   float color = colorTextureY.sample(textureSampler,tc).r * 0.2f;\n"
+    "   //float2 tc = input.textureCoorRgb + float2(0,-dy);\n"
+    "   //float color = colorTextureY.sample(textureSampler,tc).r * 0.2f;\n"
     "//  下  \n"
-    "   tc = input.textureCoorRgb + float2(0,dy);\n"
-    "   color += colorTextureY.sample(textureSampler,tc).r * 0.2f;\n"
+    "   //tc = input.textureCoorRgb + float2(0,dy);\n"
+    "   //color += colorTextureY.sample(textureSampler,tc).r * 0.2f;\n"
     "//  左  \n"
-    "   tc = input.textureCoorRgb + float2(-dx,0);\n"
-    "   color += colorTextureY.sample(textureSampler,tc).r * 0.2f;\n"
+    "   //tc = input.textureCoorRgb + float2(-dx,0);\n"
+    "   //color += colorTextureY.sample(textureSampler,tc).r * 0.2f;\n"
     "//  右 \n"
-    "   tc = input.textureCoorRgb + float2(dx,0);\n"
-    "   color += colorTextureY.sample(textureSampler,tc).r * 0.2f;\n"
+    "   //tc = input.textureCoorRgb + float2(dx,0);\n"
+    "   //color += colorTextureY.sample(textureSampler,tc).r * 0.2f;\n"
     "//  中  \n"
-    "   tc = input.textureCoorRgb + float2(0,0);\n"
-    "   float color_cur = colorTextureY.sample(textureSampler,tc).r;\n"
-    "   color += color_cur * 0.2f;\n"
-    "   float y = color_cur + (color_cur - color) * 0.5f;\n"
+    "   //tc = input.textureCoorRgb + float2(0,0);\n"
+    "   //float color_cur = colorTextureY.sample(textureSampler,tc).r;\n"
+    "   //color += color_cur * 0.2f;\n"
+    "   //float y = color_cur + (color_cur - color) * 0.5f;\n"//为了抗锯齿 但nv12 一般不需要这样
+    "   float y = colorTextureY.sample(textureSampler, input.textureCoorRgb).r;\n"
     "//  i420 sample  \n"
-    //"   float u = colorTextureU.sample(textureSampler, input.textureCoorRgb).r;\n"
-    //"   float v = colorTextureV.sample(textureSampler, input.textureCoorRgb).r;\n"
-    //"   float3 yuv = float3(y,u,v);\n"
+    "   //float u = colorTextureU.sample(textureSampler, input.textureCoorRgb).r;\n"
+    "   //float v = colorTextureV.sample(textureSampler, input.textureCoorRgb).r;\n"
+    "   //float3 yuv = float3(y,u,v);\n"
     "//  nv12 sample  \n"
     "   float2 uv = colorTextureU.sample(textureSampler, input.textureCoorRgb).rg;\n"
     "   float3 yuv = float3(y,uv);\n"
-    "   float3 rgb = convertMatrix->matrix * (yuv + convertMatrix->offset);;\n"
+    "   float3 rgb = convertMatrix->matrix * (yuv + convertMatrix->offset);\n"
     "   return float4(rgb, 1.0);\n"
     "}\n";
     return shaderSource;
